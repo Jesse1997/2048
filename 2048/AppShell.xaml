@@ -8,7 +8,7 @@
     Title="_2048">
 
     <ShellContent
-        Title="Home"
+        Title="2048"
         ContentTemplate="{DataTemplate local:MainPage}"
         Route="MainPage" />
 
